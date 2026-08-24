@@ -1,0 +1,508 @@
+﻿BillID,Department,PaymentType,BillDate,TotalBillAmount,AmountPaid,PatientName
+BILL0017,Pediatrics,Out-of-Pocket,02-09-2024,"2,26,597",194363,Arjun Das
+BILL0081,Orthopedics,Government Scheme,05-05-2024,,226936,Vihaan Sharma
+BILL0186,Neurology,Out-of-Pocket,,"1,30,900",97349,Sneha Iyer
+BILL0327,Pediatrics,Insurance,30-11-2024,"96,991",128019,Rohan Das
+BILL0419,Cardiology,Insurance,12-08-2024,"2,42,749",204249,Krishna Gupta
+BILL0498,Pediatrics,Insurance,26-11-2024,"80,099",28525,Riya Joshi
+BILL0127,General Medicine,Government Scheme,13-10-2023,"1,33,457",528,Ishaan Reddy
+BILL0165,Pediatrics,Government Scheme,18-07-2023,"99,968",118065,Sai Sharma
+BILL0333,General Medicine,Government Scheme,13-12-2023,"1,57,344",112175,Aadhya Patel
+BILL0131,General Medicine,Insurance,21-06-2024,"43,771",149119,Ayaan Joshi
+BILL0128,Neurology,Out-of-Pocket,01-11-2024,"1,89,391",108806,Rahul Menon
+BILL0162,Neurology,Government Scheme,16-04-2023,"1,51,865",9797,Vikram Gupta
+BILL0074,General Medicine,Government Scheme,23-07-2024,"2,38,177",73551,Sai Joshi
+BILL0455,,Out-of-Pocket,27-02-2023,"64,825",201081,Sneha Menon
+BILL0228,Orthopedics,Out-of-Pocket,27-07-2023,"1,12,277",9114,Kavya Patel
+BILL0273,General Medicine,Insurance,19-12-2023,"1,49,348",93145,Ishaan Rao
+BILL0156,General Medicine,Government Scheme,14-05-2023,"49,586",61009,Riya Kumar
+BILL0324, Cardiology ,Out-of-Pocket,04-11-2024,"89,562",128344,Sneha Reddy
+BILL0190,Neurology,Out-of-Pocket,17-09-2024,"63,321",141879,Myra Kumar
+BILL0212,Pediatrics,Insurance,27-06-2024,"1,04,200",73598,Sneha Das
+BILL0171,Cardiology,Government Scheme,10-12-2023,"2,32,213",159855,Aditya Nair
+BILL0015,Pediatrics,Insurance,26-01-2023,"1,88,575",122202,Krishna Verma
+BILL0456,Neurology,Insurance,08-04-2024,"2,48,475",154562,Ishaan Rao
+BILL0476,Cardiology,Out-of-Pocket,04-05-2023,"2,332",5079,Vikram Singh
+BILL0088,General Medicine,Government Scheme,20-01-2024,"1,86,603",218115,Rahul Iyer
+BILL0280,Orthopedics,Out-of-Pocket,09-04-2024,"63,101",21996,Sneha Shah
+BILL0028,,Insurance,07-01-2023,"14,735",36051,Amit Gupta
+BILL0125,Neurology,Government Scheme,13-10-2023,"46,605",109963,Priya Kumar
+BILL0210,Neurology,Out-of-Pocket,12-06-2023,"2,07,471",88281,Aditya Das
+BILL0473,Pediatrics,Insurance,31-12-2023,"12,019",127843,Myra Verma
+BILL0202,General Medicine,Government Scheme,30-11-2024,"53,865",50304,Ananya Mehta
+BILL0467,General Medicine,Insurance,30-06-2024,"1,68,105",67309,Navya Malhotra
+BILL0240,Cardiology,Insurance,07-02-2024,"2,08,011",166797,Krishna Pillai
+BILL0112,,Insurance,21-09-2024,"2,01,725",192995,Pooja Shah
+BILL0154,General Medicine,Out-of-Pocket,13-08-2023,"1,96,043",57153,Riya Joshi
+BILL0038,Orthopedics,Insurance,25-06-2023,"32,423",111546,Navya Patel
+BILL0104,Orthopedics,Out-of-Pocket,22-06-2023,"7,773",102840,Sneha Shah
+BILL0231,Pediatrics,Out-of-Pocket,13-05-2024,"47,503",208920,Aadhya Verma
+BILL0350,Neurology,Out-of-Pocket,07-12-2024,"1,38,779",179504,Vivaan Singh
+BILL0297,Pediatrics,Insurance,01-11-2024,"1,60,340",155546,Rahul Bose
+BILL0288,Cardiology,Out-of-Pocket,01-04-2023,"1,09,111",124766,Navya Menon
+BILL0215,General Medicine,Insurance,,"68,747",38745,Riya Malhotra
+BILL0359,Pediatrics,Out-of-Pocket,20-02-2024,"1,21,396",224239,Aadhya Bose
+BILL0449,General Medicine,Government Scheme,01-03-2024,"83,902",151247,Rohan Patel
+BILL0375,Neurology,Insurance,30-12-2024,"1,81,634",186148,Reyansh Kumar
+BILL0302, Cardiology ,Government Scheme,20-11-2024,"1,04,227",129686,Myra Gupta
+BILL0340,Neurology,Government Scheme,13-11-2024,"76,492",157029,Neha Kumar
+BILL0058,General Medicine,Insurance,16-01-2024,"1,70,073",201094,Reyansh Bose
+BILL0356,General Medicine,Insurance,15-11-2024,"24,516",21050,Aarav Mehta
+BILL0252,Orthopedics,Insurance,06-01-2024,"1,34,911",161612,Amit Sharma
+BILL0305,,Insurance,26-11-2024,"1,92,389",162217,Sneha Verma
+BILL0108,Orthopedics,Government Scheme,25-02-2023,,108261,Arjun Iyer
+BILL0271,Neurology,Insurance,04-08-2024,,98112,Rohan Mehta
+BILL0334,,Out-of-Pocket,03-09-2023,"1,47,935",42460,Arjun Pillai
+BILL0346,Neurology,Government Scheme,09-09-2023,,47046,Vivaan Nair
+BILL0352,Pediatrics,Out-of-Pocket,21-03-2023,"2,19,311",188829,Myra Mehta
+BILL0411,,Insurance,31-03-2023,"62,187",30104,Reyansh Verma
+BILL0204,Orthopedics,Out-of-Pocket,17-03-2023,"1,32,015",58548,Navya Pillai
+BILL0140,Neurology,Government Scheme,18-12-2024,"2,11,050",244631,Ananya Rao
+BILL0137,Cardiology,Out-of-Pocket,08-09-2024,"1,85,385",211864,Pooja Kapoor
+BILL0283,General Medicine,Out-of-Pocket,22-06-2023,"2,26,637",46022,Myra Mehta
+BILL0343,Neurology,Government Scheme,28-06-2024,"1,73,717",122694,Aditya Singh
+BILL0197,Pediatrics,Insurance,29-10-2024,"34,093",37081,Rahul Pillai
+BILL0289,Pediatrics,Insurance,30-10-2023,"1,60,376",239190,Sai Gupta
+BILL0211,Neurology,Government Scheme,19-08-2024,"1,75,237",66151,Pooja Sharma
+BILL0238,Neurology,Insurance,13-01-2024,"1,33,571",84846,Vivaan Pillai
+BILL0176,Cardiology,Insurance,21-07-2023,"1,02,246",28287,Kiara Pillai
+BILL0041,Neurology,Insurance,21-06-2024,"1,25,413",187854,Reyansh Reddy
+BILL0052,Cardiology,Government Scheme,19-04-2023,"1,15,692",206329,Isha Das
+BILL0082,Cardiology,Out-of-Pocket,01-07-2024,"1,48,551",195631,Anika Reddy
+BILL0391,Pediatrics,Government Scheme,27-01-2024,"46,204",239628,Aarav Gupta
+BILL0044,Pediatrics,Out-of-Pocket,09-08-2024,"2,44,272",54160,Diya Gupta
+BILL0378,Cardiology,Government Scheme,10-12-2023,"70,267",66299,Vikram Das
+BILL0470,Pediatrics,Out-of-Pocket,05-05-2023,"1,01,631",239631,Neha Menon
+BILL0103,Cardiology,Insurance,22-05-2023,"2,02,759",135669,Aarav Reddy
+BILL0374,Neurology,Insurance,23-08-2024,"2,07,053",133461,Vivaan Mehta
+BILL0458,Cardiology,Government Scheme,27-02-2024,"58,271",172507,Amit Gupta
+BILL0067,General Medicine,Government Scheme,12/07/2024,"1,11,073",2019,Aadhya Patel
+BILL0225,Orthopedics,Government Scheme,04-06-2023,"1,81,642",162553,Ishaan Pillai
+BILL0344,PEDIATRICS,Out-of-Pocket,,"1,95,260",162948,Arjun Menon
+BILL0226,Neurology,Insurance,04-08-2024,"63,113",944,Myra Pillai
+BILL0444,Neurology,Insurance,11-07-2024,"2,11,840",69110,Ayaan Menon
+BILL0453,Neurology,Government Scheme,13-11-2023,"30,486",129288,Vikram Kumar
+BILL0331,Cardiology,Government Scheme,25-07-2023,"1,84,148",120454,Ananya Kapoor
+BILL0016,Pediatrics,Government Scheme,12-12-2024,"4,179",159463,Rahul Verma
+BILL0113,Neurology,Out-of-Pocket,29-10-2023,"1,08,852",70560,Ananya Nair
+BILL0248,Cardiology,Government Scheme,28-03-2023,"1,95,887",4263,Ayaan Kumar
+BILL0145,Neurology,Government Scheme,14-01-2023,"99,673",66896,Vikram Iyer
+BILL0370,Neurology,Out-of-Pocket,26-05-2024,"2,15,768",196149,Rahul Kapoor
+BILL0068,General Medicine,Out-of-Pocket,26-04-2024,"1,21,230",81455,Navya Das
+BILL0102,Orthopedics,Out-of-Pocket,10-06-2024,"44,848",152398,Arjun Bose
+BILL0187,Neurology,Out-of-Pocket,12-02-2024,"1,57,548",137837,Arjun Malhotra
+BILL0135,Orthopedics,Insurance,04-01-2024,"93,534",47498,Priya Joshi
+BILL0330,Cardiology,Insurance,14-08-2023,"72,967",183273,Ananya Pillai
+BILL0427,Pediatrics,Insurance,14-01-2023,"17,601",63472,Sai Gupta
+BILL0398,Orthopedics,Government Scheme,01-07-2023,"10,560",140467,Krishna Chopra
+BILL0477,Neurology,Government Scheme,23-03-2023,"1,72,940",156910,Isha Gupta
+BILL0270,Cardiology,Out-of-Pocket,2023.08.19,"1,03,152",212646,Ananya Rao
+BILL0256,Neurology,Insurance,18-08-2024,"54,371",194841,Sai Malhotra
+BILL0422,General Medicine,Out-of-Pocket,06-11-2023,,201664,Myra Patel
+BILL0329,General Medicine,Out-of-Pocket,27-09-2023,"87,069",187952,Saanvi Nair
+BILL0138,Cardiology,Out-of-Pocket,28-12-2024,"25,537",70441,Priya Das
+BILL0403,Pediatrics,Insurance,02-07-2024,"79,063",249045,Diya Sharma
+BILL0311,General Medicine,Out-of-Pocket,19-05-2024,"1,36,248",67664,Anika Pillai
+BILL0362,Neurology,Insurance,01-10-2023,"1,12,599",231329,Pooja Sharma
+BILL0249,Cardiology,Insurance,07-08-2024,746,108585,Reyansh Verma
+BILL0437,Cardiology,Government Scheme,30-01-2024,"48,342",49167,Ananya Rao
+BILL0117,Pediatrics,Government Scheme,23-08-2023,"2,13,128",76762,Rohan Singh
+BILL0390,General Medicine,Insurance,29-05-2024,,65363,Aarav Gupta
+BILL0321,Pediatrics,Government Scheme,15-11-2023,"73,328",51030,Vivaan Sharma
+BILL0160,Neurology,Out-of-Pocket,11-05-2023,"1,80,059",172624,Vivaan Kapoor
+BILL0394,Pediatrics,Insurance,02-08-2023,"70,758",45215,Reyansh Nair
+BILL0396,Cardiology,Out-of-Pocket,10-05-2023,"2,27,384",55476,Ayaan Sharma
+BILL0219,Orthopedics,Insurance,10-10-2023,"1,54,060",138056,Aarav Gupta
+BILL0408,Neurology,Insurance,25-09-2024,"1,00,204",159996,Ayaan Verma
+BILL0084,Orthopedics,Out-of-Pocket,10-09-2024,"66,766",182504,Vihaan Das
+BILL0245,Orthopedics,Insurance,18-12-2024,"2,32,504",16347,Rahul Das
+BILL0242,Neurology,Government Scheme,11-02-2023,"2,44,576",137119,Sai Malhotra
+BILL0315,Cardiology,Insurance,11-04-2023,"1,45,035",35285,Ishaan Rao
+BILL0062,Orthopedics,Insurance,25-03-2023,"1,53,644",49997,Rohan Kapoor
+BILL0435,,Insurance,30-09-2023,"2,10,505",173292,Pooja Kapoor
+BILL0348,Cardiology,Government Scheme,27-07-2023,"21,254",222078,Reyansh Chopra
+BILL0133,Orthopedics,Out-of-Pocket,09-03-2023,"1,97,923",35109,Priya Verma
+BILL0178,Neurology,Out-of-Pocket,29-11-2024,"85,131",161508,Saanvi Verma
+BILL0060,Orthopedics,Insurance,17-07-2024,"62,657",225295,Sai Sharma
+BILL0205,General Medicine,Insurance,25-04-2024,"2,21,011",241909,Rahul Kumar
+BILL0106,Neurology,Insurance,16-06-2023,"2,07,141",196092,Arjun Das
+BILL0011,Cardiology,Government Scheme,21-03-2023,"1,50,895",191012,Priya Kumar
+BILL0056,Orthopedics,Insurance,05-08-2023,"30,264",161351,Arjun Malhotra
+BILL0459,Pediatrics,Government Scheme,14-08-2023,"55,473",206089,Ayaan Kapoor
+BILL0443,Cardiology,Out-of-Pocket,28-10-2024,"1,86,772",2016,Diya Menon
+BILL0057,General Medicine,Out-of-Pocket,02-07-2024,"32,970",145476,Ayaan Shah
+BILL0366,Pediatrics,Government Scheme,07-12-2024,"85,515",117734,Riya Rao
+BILL0167,Neurology,Insurance,14-05-2023,"1,72,322",13733,Rohan Kapoor
+BILL0089,Neurology,Government Scheme,15-09-2024,"1,33,273",178219,Neha Patel
+BILL0272,Cardiology,Government Scheme,02-03-2024,"56,273",73414,Amit Singh
+BILL0025,General Medicine,Out-of-Pocket,20-08-2023,"2,27,312",-8733,Vivaan Sharma
+BILL0115,Cardiology,Insurance,11-05-2023,"89,489",188564,Kavya Joshi
+BILL0402,Orthopedics,Insurance,23-01-2023,"50,423",103591,Vikram Malhotra
+BILL0032,General Medicine,Out-of-Pocket,18-12-2024,"1,90,888",73432,Vihaan Chopra
+BILL0345,Cardiology,Government Scheme,19-08-2023,"49,081",191799,Kiara Das
+BILL0462,General Medicine,Government Scheme,20-08-2023,"39,607",83106,Sneha Patel
+BILL0354,Neurology,Government Scheme,24-12-2024,"1,15,280",108500,Aadhya Nair
+BILL0442,General Medicine,Out-of-Pocket,29-09-2023,"1,54,588",110013,Vivaan Joshi
+BILL0191,Neurology,Insurance,04-07-2024,"2,48,915",10204,Neha Pillai
+BILL0158,Pediatrics,Insurance,24-05-2024,"2,48,899",99546,Anika Das
+BILL0400,Cardiology,Out-of-Pocket,20-10-2023,"1,38,227",241443,Aditya Reddy
+BILL0451,Orthopedics,Government Scheme,05-11-2023,"1,59,193",11826,Ananya Shah
+BILL0198,Neurology,Government Scheme,15-06-2023,"1,73,536",34986,Kavya Mehta
+BILL0129,Neurology,Insurance,05-08-2023,"1,549",161386,Ananya Gupta
+BILL0471,Cardiology,Out-of-Pocket,22-05-2024,"68,094",124724,Aadhya Shah
+BILL0124,Pediatrics,Out-of-Pocket,12-10-2023,"90,409",-2369,Aarav Kapoor
+BILL0339,Pediatrics,Government Scheme,10-01-2024,"1,31,832",49757,Reyansh Rao
+BILL0279,Cardiology,Out-of-Pocket,21-06-2023,"3,838",-188482,Riya Singh
+BILL0480,General Medicine,Out-of-Pocket,2024.04.02,"1,05,974",178181,Isha Rao
+BILL0099,General Medicine,Government Scheme,24-02-2023,"34,025",192416,Reyansh Nair
+BILL0300,Cardiology,Government Scheme,25-11-2023,"1,82,442",36355,Sai Reddy
+BILL0299,General Medicine,Government Scheme,13-12-2024,"1,04,077",239472,Vihaan Singh
+BILL0465,Cardiology,Insurance,19-01-2023,"87,339",54638,Aditya Patel
+BILL0295,General Medicine,Government Scheme,21-05-2023,"2,43,361",221432,Amit Nair
+BILL0255,Cardiology,Insurance,07-11-2023,"1,50,966",206798,Sai Bose
+BILL0147,Neurology,Out-of-Pocket,06-02-2023,"73,777",153018,Diya Patel
+BILL0181,Neurology,Out-of-Pocket,01-09-2024,"32,675",204639,Aditya Iyer
+BILL0357,Neurology,Insurance,25-06-2024,"2,28,206",135892,Ayaan Malhotra
+BILL0303,Orthopedics,Out-of-Pocket,04-06-2023,"50,960",204975,Vivaan Iyer
+BILL0241,Neurology,Out-of-Pocket,16-04-2024,"2,46,660",18996,Aadhya Shah
+BILL0388,Pediatrics,Government Scheme,31-01-2024,"2,38,276",218031,Arjun Shah
+BILL0282,General Medicine,Government Scheme,13-05-2023,"36,782",83697,Krishna Pillai
+BILL0341,Neurology,Insurance,28-02-2023,"22,820",81541,Saanvi Joshi
+BILL0109,Cardiology,Government Scheme,01-07-2023,"2,14,596",102466,Sai Das
+BILL0274,Orthopedics,Out-of-Pocket,09-01-2023,"2,03,168",180294,Vikram Patel
+BILL0004,Neurology,Out-of-Pocket,11-Dec-2024,"1,15,563",74965,Neha Bose
+BILL0407,Neurology,Out-of-Pocket,07-12-2023,"1,51,311",62583,Diya Kumar
+BILL0195,General Medicine,Insurance,01-12-2024,"2,46,964",102903,Aadhya Das
+BILL0083,Cardiology,Government Scheme,17-12-2024,"34,246",19465,Arjun Joshi
+BILL0262,Cardiology,Insurance,27-03-2024,"1,35,967",138449,Arjun Bose
+BILL0054,Neurology,Government Scheme,30-05-2024,"1,63,260",62513,Arjun Singh
+BILL0261,Cardiology,Insurance,07-02-2023,"1,05,009",67546,Isha Mehta
+BILL0085,Orthopedics,Insurance,10-08-2023,556,4131,Rahul Menon
+BILL0438,Cardiology,Government Scheme,06-05-2023,"47,039",36373,Aadhya Reddy
+BILL0180,Neurology,Out-of-Pocket,19-12-2023,"11,029",221404,Anika Nair
+BILL0495,Orthopedics,Insurance,01-10-2023,"66,702",238161,Sai Joshi
+BILL0230,Neurology,Government Scheme,05-03-2024,"2,14,073",214738,Saanvi Das
+BILL0432,Pediatrics,Government Scheme,12-01-2024,"90,981",104451,Arjun Rao
+BILL0234, Orthopedics ,Insurance,27-02-2023,"1,77,818",206359,Aadhya Singh
+BILL0075,General Medicine,Government Scheme,13-06-2024,"31,626",3420,Isha Kapoor
+BILL0466,Neurology,Insurance,31-01-2023,"1,87,799",69072,Vivaan Reddy
+BILL0413,Cardiology,Insurance,09-07-2023,"2,27,121",37594,Arjun Singh
+BILL0497,General Medicine,Insurance,28-10-2024,"2,24,991",88815,Priya Rao
+BILL0491,General Medicine,Government Scheme,19-03-2024,,57748,Aarav Das
+BILL0024,Neurology,Insurance,15-06-2023,"6,195",6574,Priya Verma
+BILL0480,General Medicine,Out-of-Pocket,02-04-2024,"1,05,974",178181,Isha Rao
+BILL0155,General Medicine,Insurance,15-05-2023,"1,81,427",214020,Riya Nair
+BILL0434,Pediatrics,Government Scheme,02-05-2023,"8,049",102908,Myra Reddy
+BILL0192,Orthopedics,Out-of-Pocket,18-08-2023,"12,704",-223674,Navya Menon
+BILL0287,Neurology,Insurance,01-05-2023,"2,08,388",90724,Krishna Sharma
+BILL0019,Orthopedics,Out-of-Pocket,02-01-2023,"2,06,596",241942,Pooja Malhotra
+BILL0318,Cardiology,Insurance,01-06-2023,"1,26,034",46996,Saanvi Patel
+BILL0051,Neurology,Insurance,20-03-2024,"50,148",89407,Amit Das
+BILL0039,Cardiology,Government Scheme,11-03-2023,"96,211",51458,Anika Iyer
+BILL0194,Cardiology,Insurance,14-03-2023,"7,894",42120,Rahul Menon
+BILL0418,Orthopedics,Out-of-Pocket,16-01-2024,"20,948",192233,Aarav Nair
+BILL0189,Neurology,Out-of-Pocket,09-04-2023,"79,178",219779,Priya Sharma
+BILL0493,Pediatrics,Out-of-Pocket,16-04-2024,"87,379",7140,Arjun Gupta
+BILL0006,Pediatrics,Out-of-Pocket,,"2,15,101",179693,Kavya Gupta
+BILL0076,General Medicine,Insurance,15-02-2023,"47,74,340",59875,Vikram Reddy
+BILL0143,Pediatrics,Insurance,10-05-2023,"2,49,064",107447,Ananya Rao
+BILL0048,General Medicine,Out-of-Pocket,01/10/2024,"1,28,021",153263,Riya Kapoor
+BILL0047,Pediatrics,Insurance,2024.12.03,"1,54,818",231946,Isha Iyer
+BILL0071,Cardiology,Insurance,08-12-2024,"2,43,705",149102,Arjun Verma
+BILL0068,General Medicine,Out-of-Pocket,26-04-2024,"1,21,230",81455,Navya Das
+BILL0080,Orthopedics,Government Scheme,31-08-2023,"30,282",105789,Saanvi Verma
+BILL0031,Pediatrics,Insurance,17-03-2024,"1,59,039",77338,Myra Nair
+BILL0012,Pediatrics,Government Scheme,19-09-2023,"1,84,786",171796,Aadhya Nair
+BILL0358,Orthopedics,Out-of-Pocket,26-05-2024,"61,022",138907,Neha Pillai
+BILL0482,Cardiology,Government Scheme,24-07-2024,"10,85,025",156666,Sai Shah
+BILL0454,Pediatrics,Insurance,07-08-2023,"1,22,182",165201,Saanvi Joshi
+BILL0269,Cardiology,Insurance,13-07-2023,"1,35,413",47606,Ayaan Mehta
+BILL0116,Neurology,Insurance,02-10-2024,"35,579",162842,Ayaan Kapoor
+BILL0026,Pediatrics,Government Scheme,31-12-2024,"58,999",50290,Arjun Gupta
+BILL0447,Orthopedics,Government Scheme,11-09-2023,"1,28,422",239311,Rahul Gupta
+BILL0196,General Medicine,Government Scheme,24-01-2023,"65,314",153730,Ayaan Nair
+BILL0385,Cardiology,Out-of-Pocket,28-04-2024,"17,756",220065,Amit Iyer
+BILL0066,Neurology,Out-of-Pocket,19-04-2024,"1,68,704",2179,Ayaan Chopra
+BILL0360,Neurology,Insurance,29-01-2023,"2,05,664",100153,Amit Joshi
+BILL0046, Orthopedics ,Government Scheme,05-01-2023,"56,940",25298,Sai Sharma
+BILL0431,Orthopedics,Insurance,03-09-2023,"1,76,225",81196,Pooja Chopra
+BILL0417,General Medicine,Insurance,27-11-2023,"1,36,353",197105,Sai Singh
+BILL0496,Orthopedics,Out-of-Pocket,27-11-2024,"99,080",145973,Priya Kumar
+BILL0404,General Medicine,Out-of-Pocket,15-12-2024,"1,35,602",46229,Myra Chopra
+BILL0244,Orthopedics,Out-of-Pocket,28-08-2023,"5,945",28767,Vihaan Pillai
+BILL0474,Neurology,Government Scheme,21-06-2023,"1,62,687",35326,Rohan Kapoor
+BILL0488,Orthopedics,Insurance,04-11-2024,,51818,Ayaan Singh
+BILL0267,Pediatrics,Insurance,10-11-2023,"1,35,263",168050,Diya Mehta
+BILL0069,General Medicine,Government Scheme,21-06-2023,"1,49,433",216311,Vivaan Kapoor
+BILL0022,Orthopedics,Insurance,04-04-2023,"2,01,104",73339,Arjun Das
+BILL0078,Pediatrics,Government Scheme,21-02-2023,"1,06,534",16740,Vikram Iyer
+BILL0306,Pediatrics,Insurance,11-06-2024,"1,69,819",249602,Anika Kumar
+BILL0450,Orthopedics,Insurance,30-04-2023,"43,107",235782,Sai Gupta
+BILL0237,Orthopedics,Insurance,24-07-2024,"1,84,633",25009,Anika Nair
+BILL0291,Pediatrics,Government Scheme,19-09-2023,"11,658",219738,Riya Kumar
+BILL0285,Cardiology,Out-of-Pocket,18-05-2023,"96,298",67764,Kavya Rao
+BILL0059,Neurology,Government Scheme,07-12-2023,"57,707",35198,Isha Shah
+BILL0126,Orthopedics,Government Scheme,13-05-2024,"1,61,736",228629,Ayaan Menon
+BILL0229,Cardiology,Out-of-Pocket,02-05-2023,"2,17,707",39846,Aadhya Nair
+BILL0043,Orthopedics,Insurance,18-06-2024,"21,439",222159,Isha Das
+BILL0005,Neurology,Government Scheme,25-05-2023,"2,37,763",125332,Aadhya Kumar
+BILL0122, Orthopedics ,Insurance,,"1,76,892",175487,Krishna Reddy
+BILL0169,Pediatrics,Insurance,06-04-2023,,127182,Amit Patel
+BILL0141,Cardiology,Insurance,11-01-2023,"27,778",74420,Vikram Kapoor
+BILL0314,pediatrics,Government Scheme,24-09-2024,"1,81,256",93616,Aarav Verma
+BILL0065,Orthopedics,Insurance,05-08-2024,"1,24,788",192104,Ayaan Gupta
+BILL0425,Cardiology,Insurance,26-04-2023,"1,15,179",17241,Aditya Malhotra
+BILL0110,Pediatrics,Insurance,18-07-2024,"1,07,657",33071,Saanvi Verma
+BILL0281,Neurology,Government Scheme,14-07-2023,"1,37,059",185993,Ayaan Rao
+BILL0119,Cardiology,Insurance,09-11-2024,"1,12,389",210020,Kiara Verma
+BILL0206,Pediatrics,Insurance,02-11-2023,"2,30,630",98447,Sai Singh
+BILL0499,Orthopedics,Insurance,25-05-2024,"1,65,221",20491,Rohan Nair
+BILL0007,Cardiology,Insurance,14-01-2024,"94,718",129681,Ayaan Malhotra
+BILL0263,Cardiology,Insurance,17-03-2024,"1,27,878",78572,Isha Menon
+BILL0307,Orthopedics,Government Scheme,09-06-2024,"15,919",249434,Ishaan Bose
+BILL0260,Pediatrics,Out-of-Pocket,02-11-2024,"52,555",103533,Rohan Kumar
+BILL0123,Cardiology,Insurance,01-04-2023,"2,23,670",143641,Pooja Singh
+BILL0079,General Medicine,Out-of-Pocket,14-12-2023,"18,383",65263,Pooja Nair
+BILL0486,Cardiology,Government Scheme,03-08-2023,"2,19,549",74534,Arjun Kapoor
+BILL0152,General Medicine,Government Scheme,13-12-2024,"67,970",134997,Krishna Sharma
+BILL0292,Neurology,Insurance,10-08-2023,"2,05,729",170231,Navya Chopra
+BILL0164,Cardiology,Insurance,17-01-2024,"2,43,689",71942,Sai Chopra
+BILL0341,Neurology,Insurance,28-02-2023,"22,820",81541,Saanvi Joshi
+BILL0266,Neurology,Insurance,02-12-2024,"65,578",131120,Isha Joshi
+BILL0377,Neurology,Out-of-Pocket,12-10-2024,"88,995",123183,Ayaan Menon
+BILL0328,General Medicine,Insurance,25-01-2024,"2,23,893",135024,Navya Shah
+BILL0144,Pediatrics,Out-of-Pocket,04-10-2024,"1,88,755",202558,Riya Patel
+BILL0387,Neurology,Out-of-Pocket,07-02-2024,"1,81,389",121677,Arjun Bose
+BILL0304,Cardiology,Government Scheme,14-04-2023,"83,470",197330,Vihaan Kapoor
+BILL0200,Pediatrics,Government Scheme,02-04-2023,"1,15,564",94819,Isha Patel
+BILL0042,General Medicine,Government Scheme,08-05-2023,"1,33,186",55415,Reyansh Joshi
+BILL0460,,Government Scheme,04-11-2024,"2,48,797",139592,Ayaan Nair
+BILL0405,Pediatrics,Out-of-Pocket,09-01-2023,"90,279",157711,Arjun Kapoor
+BILL0349,General Medicine,Out-of-Pocket,05-02-2023,"70,337",9759,Sai Gupta
+BILL0232,Cardiology,Government Scheme,15-01-2023,,32596,Krishna Kumar
+BILL0246,Cardiology,Out-of-Pocket,08-02-2024,,102063,Arjun Pillai
+BILL0382,Neurology,Insurance,23-03-2024,"6,836",39023,Aadhya Joshi
+BILL0489,General Medicine,Insurance,,"38,811",111910,Kiara Malhotra
+BILL0320,Pediatrics,Government Scheme,03-09-2023,"1,90,168",159028,Ayaan Pillai
+BILL0264,Neurology,Out-of-Pocket,05-02-2024,"1,46,862",26467,Pooja Pillai
+BILL0030,Orthopedics,Insurance,13-07-2023,"1,33,938",220754,Sai Kumar
+BILL0239,Neurology,Government Scheme,03-03-2024,"1,46,421",50241,Amit Joshi
+BILL0251,Orthopedics,Insurance,,"5,712",96359,Riya Malhotra
+BILL0163,General Medicine,Government Scheme,07-09-2023,"1,77,333",86130,Aarav Rao
+BILL0150,General Medicine,Out-of-Pocket,21-02-2023,"2,27,414",22161,Riya Kumar
+BILL0383,Cardiology,Government Scheme,15-01-2024,"1,12,700",181101,Ananya Iyer
+BILL0379,Pediatrics,Out-of-Pocket,24-07-2023,"1,04,832",220533,Vivaan Iyer
+BILL0095,Pediatrics,Insurance,05-06-2024,"1,08,197",186764,Anika Nair
+BILL0305,,Insurance,26-11-2024,"1,92,389",162217,Sneha Verma
+BILL0222,Orthopedics,Out-of-Pocket,01-02-2024,"2,20,716",234347,Ishaan Mehta
+BILL0086,Orthopedics,Government Scheme,10-03-2023,"31,957",10652,Ayaan Menon
+BILL0188,Pediatrics,Government Scheme,21-08-2024,"1,94,688",182698,Rahul Joshi
+BILL0090,Neurology,Out-of-Pocket,08-06-2023,"1,87,953",47671,Rohan Kapoor
+BILL0326,Cardiology,Insurance,07-08-2024,"2,20,573",65464,Ananya Joshi
+BILL0035,Cardiology,Government Scheme,24-10-2024,"2,22,468",79062,Riya Reddy
+BILL0218,Neurology,Insurance,08-07-2024,"55,240",141753,Neha Verma
+BILL0073,Pediatrics,Out-of-Pocket,26-01-2024,"19,281",69445,Vivaan Bose
+BILL0221,Pediatrics,Government Scheme,26-09-2024,"2,47,983",90810,Myra Joshi
+BILL0311,General Medicine,Out-of-Pocket,19-05-2024,"1,36,248",67664,Anika Pillai
+BILL0463,General Medicine,Out-of-Pocket,17-04-2023,"58,388",192949,Vikram Iyer
+BILL0472,General Medicine,Insurance,06/27/2024,"1,88,473",185639,Vivaan Patel
+BILL0013,Neurology,Government Scheme,18-04-2024,"18,497",97805,Reyansh Malhotra
+BILL0199,Orthopedics,Insurance,04-09-2024,"2,08,760",79322,Reyansh Reddy
+BILL0214,Orthopedics,Government Scheme,03-05-2023,"1,35,037",240896,Krishna Mehta
+BILL0445,Neurology,Insurance,20-08-2024,"1,91,859",177381,Rohan Malhotra
+BILL0235,Neurology,Government Scheme,11-01-2024,"1,68,221",6907,Diya Kumar
+BILL0487,Pediatrics,Insurance,07-01-2024,"1,38,187",79233,Saanvi Rao
+BILL0492,Cardiology,Government Scheme,01-06-2024,"23,934",48807,Rohan Mehta
+BILL0395,Pediatrics,Government Scheme,15-10-2023,"78,848",47857,Kavya Sharma
+BILL0097,Orthopedics,Out-of-Pocket,06-12-2023,"21,005",9470,Sneha Rao
+BILL0322,Pediatrics,Insurance,29-12-2024,"1,24,149",189669,Arjun Das
+BILL0298,Neurology,Out-of-Pocket,22-07-2024,"63,646",17333,Riya Rao
+BILL0064,Neurology,Out-of-Pocket,17-11-2023,"1,30,516",131639,Vikram Das
+BILL0223,Neurology,Insurance,06-02-2024,"4,25,970",186005,Kiara Chopra
+BILL0096,Pediatrics,Out-of-Pocket,,"66,983",58541,Ananya Malhotra
+BILL0014,Neurology,Insurance,19-04-2024,"1,21,766",162776,Aarav Reddy
+BILL0018,Neurology,Government Scheme,10-05-2023,"40,808",220795,Pooja Gupta
+BILL0367,Neurology,Insurance,31-07-2024,"1,05,487",130104,Saanvi Pillai
+BILL0247,Cardiology,Out-of-Pocket,06-06-2023,"2,46,880",24102,Neha Joshi
+BILL0393,Neurology,Government Scheme,17-03-2024,"80,491",228968,Riya Reddy
+BILL0208,Cardiology,Government Scheme,14-09-2024,"1,80,363",74095,Vivaan Iyer
+BILL0091,Pediatrics,Out-of-Pocket,04-06-2024,"1,82,010",245289,Priya Chopra
+BILL0308,Cardiology,Insurance,13-10-2024,,103170,Diya Nair
+BILL0335, Pediatrics ,Insurance,05/18/2023,"1,60,062",153868,Isha Nair
+BILL0365,ORTHOPEDICS,Government Scheme,04-02-2024,"2,424",176571,Neha Gupta
+BILL0040,Orthopedics,Out-of-Pocket,28-12-2023,"16,792",195337,Arjun Verma
+BILL0087,Pediatrics,Insurance,14-07-2024,"1,33,815",196045,Priya Menon
+BILL0182, General Medicine ,Out-of-Pocket,25-08-2023,"-90,875",218555,Aadhya Kapoor
+BILL0412,General Medicine,Insurance,16-12-2023,"36,991",240660,Aditya Iyer
+BILL0146,General Medicine,Insurance,11-05-2023,"38,794",103431,Arjun Patel
+BILL0159,Cardiology,Government Scheme,03-01-2024,"2,03,267",222325,Vikram Iyer
+BILL0410,Pediatrics,Out-of-Pocket,04-06-2024,"1,10,734",204041,Rahul Das
+BILL0371,Orthopedics,Government Scheme,05-12-2023,"1,77,671",31440,Myra Mehta
+BILL0372,Neurology,Out-of-Pocket,09-04-2024,"1,88,918",35183,Aditya Malhotra
+BILL0355,Orthopedics,Out-of-Pocket,10-01-2024,"87,581",8507,Rahul Reddy
+BILL0201,Cardiology,Insurance,03/01/2024,"2,30,848",130015,Rahul Joshi
+BILL0293,Orthopedics,Insurance,25-02-2024,"11,047",173269,Arjun Shah
+BILL0072,Cardiology,Out-of-Pocket,07-04-2023,"5,460",126883,Kiara Malhotra
+BILL0386,General Medicine,Government Scheme,05-10-2023,"2,31,017",185022,Reyansh Nair
+BILL0421,General Medicine,Out-of-Pocket,11-02-2024,"49,794",201251,Kiara Mehta
+BILL0368,Pediatrics,Government Scheme,22-11-2024,"54,833",137912,Vivaan Gupta
+BILL0397,Neurology,Out-of-Pocket,22-03-2023,,159245,Ayaan Nair
+BILL0484,Cardiology,Out-of-Pocket,22-11-2023,"2,41,315",167364,Anika Reddy
+BILL0469,General Medicine,Out-of-Pocket,03-12-2024,"1,87,806",194035,Ayaan Das
+BILL0392,Cardiology,Insurance,07-03-2023,"30,513",61742,Ananya Joshi
+BILL0134,General Medicine,Out-of-Pocket,07-03-2024,"37,034",13919,Navya Mehta
+BILL0061,General Medicine,Insurance,17-07-2024,"1,34,788",249270,Ishaan Das
+BILL0433,General Medicine,Insurance,25-08-2024,"53,302",208196,Priya Menon
+BILL0485,Cardiology,Out-of-Pocket,10-06-2023,"38,070",118192,Sai Iyer
+BILL0101,Pediatrics,Out-of-Pocket,,"96,508",181711,Arjun Iyer
+BILL0020,Orthopedics,Insurance,31-03-2024,"1,71,414",2526,Arjun Menon
+BILL0389,Orthopedics,Government Scheme,31-08-2024,"34,219",76054,Vikram Singh
+BILL0468,General Medicine,Insurance,23-10-2024,"2,26,782",160966,Navya Verma
+BILL0265,Neurology,Government Scheme,21-07-2023,"88,187",246590,Sneha Kumar
+BILL0277,Cardiology,Government Scheme,11-09-2024,"2,45,401",40647,Saanvi Pillai
+BILL0009,Neurology,Insurance,17-06-2024,"1,59,987",114300,Arjun Pillai
+BILL0310,General Medicine,Insurance,30-06-2024,"3,421",180926,Diya Kumar
+BILL0284,,Insurance,30-01-2024,,40148,Ayaan Pillai
+BILL0478,Orthopedics,Out-of-Pocket,13-01-2024,"2,19,997",121412,Diya Reddy
+BILL0093,Cardiology,Government Scheme,06-05-2024,"81,136",19171,Kiara Rao
+BILL0253, Cardiology ,Insurance,06-01-2024,"2,20,250",130251,Sai Das
+BILL0033,Orthopedics,Government Scheme,22-06-2023,"1,12,968",28133,Aarav Shah
+BILL0136,General Medicine,Government Scheme,14-08-2024,"58,597",55808,Ayaan Pillai
+BILL0023,Neurology,Out-of-Pocket,19-12-2023,"1,85,510",229276,Ananya Bose
+BILL0063,Cardiology,Insurance,25-08-2024,"94,278",209764,Neha Singh
+BILL0490,Pediatrics,Government Scheme,30-06-2023,"90,745",13429,Sai Iyer
+BILL0216,Orthopedics,Insurance,27-09-2023,"1,83,131",240795,Vikram Mehta
+BILL0420,Pediatrics,Out-of-Pocket,26-01-2024,"52,050",128404,Vivaan Gupta
+BILL0426,Pediatrics,Out-of-Pocket,03-09-2023,"86,115",46211,Neha Iyer
+BILL0258,Pediatrics,Out-of-Pocket,18-09-2023,"2,09,294",27690,Aadhya Mehta
+BILL0053,Pediatrics,Insurance,25-04-2023,"1,88,423",235021,Pooja Nair
+BILL0416,Neurology,Insurance,27-05-2023,"84,278",159262,Pooja Kapoor
+BILL0174,Orthopedics,Insurance,17-09-2023,"72,856",108378,Kavya Shah
+BILL0036,Orthopedics,Insurance,14-09-2024,"1,14,331",181980,Sneha Nair
+BILL0179,Pediatrics,Insurance,28-02-2023,"2,46,202",86916,Riya Bose
+BILL0168,Orthopedics,Out-of-Pocket,30-05-2024,"69,102",184295,Vihaan Gupta
+BILL0227,Cardiology,Insurance,25-03-2023,"97,207",93993,Myra Mehta
+BILL0121,General Medicine,Out-of-Pocket,02-03-2023,"49,823",188511,Priya Kapoor
+BILL0276,Pediatrics,Government Scheme,24-10-2024,"28,084",89606,Isha Reddy
+BILL0045,General Medicine,Insurance,15-05-2024,"19,300",54399,Navya Joshi
+BILL0301,Cardiology,Government Scheme,30-09-2023,"1,08,261",230487,Aarav Pillai
+BILL0325,Cardiology,Out-of-Pocket,07-09-2024,"55,652",229685,Reyansh Malhotra
+BILL0077,General Medicine,Government Scheme,26-12-2024,"1,54,150",178725,Sneha Bose
+BILL0209,Cardiology,Government Scheme,11-02-2023,"2,18,227",91594,Vihaan Pillai
+BILL0369,Cardiology,Insurance,03-10-2023,"2,16,030",234442,Kavya Patel
+BILL0213,General Medicine,Government Scheme,12-08-2023,"97,577",28214,Anika Joshi
+BILL0268,Pediatrics,Out-of-Pocket,11-09-2024,"1,39,042",246938,Aadhya Chopra
+BILL0312,Neurology,Out-of-Pocket,31-08-2024,"2,17,533",238494,Arjun Gupta
+BILL0217,Orthopedics,Insurance,11-09-2023,"1,56,770",173620,Anika Sharma
+BILL0440,Neurology,Insurance,,"1,86,168",67143,Arjun Iyer
+BILL0010,Cardiology,Out-of-Pocket,11-07-2023,"1,96,095",37997,Aadhya Joshi
+BILL0409,Orthopedics,Out-of-Pocket,10-11-2023,"1,29,657",126011,Sai Rao
+BILL0428,Pediatrics,Out-of-Pocket,09-04-2024,"1,97,750",205320,Ishaan Verma
+BILL0286,Neurology,Out-of-Pocket,20-03-2024,"1,31,463",91901,Kavya Chopra
+BILL0296,General Medicine,Government Scheme,18-12-2023,"2,959",98941,Riya Menon
+BILL0105,Neurology,Government Scheme,03-05-2024,"64,736",161860,Ishaan Rao
+BILL0313,Pediatrics,Government Scheme,04-12-2024,"2,32,293",86153,Vivaan Singh
+BILL0439,,Insurance,20-10-2023,"34,217",242660,Isha Shah
+BILL0500,Neurology,Out-of-Pocket,19-02-2023,"2,31,936",199888,Arjun Nair
+BILL0092,Neurology,Government Scheme,18-08-2024,"74,339",-89342,Arjun Rao
+BILL0183,Neurology,Government Scheme,26-03-2024,"1,74,730",3188,Kavya Kapoor
+BILL0316,General Medicine,Out-of-Pocket,29-09-2024,"1,57,046",148605,Riya Chopra
+BILL0461,General Medicine,Out-of-Pocket,13-04-2024,"1,46,262",223023,Myra Pillai
+BILL0173,General Medicine,Out-of-Pocket,21-02-2024,"2,960",167466,Sneha Chopra
+BILL0233,Pediatrics,Out-of-Pocket,28-05-2024,"1,46,006",104087,Vivaan Sharma
+BILL0483,Neurology,Government Scheme,15-10-2023,"73,866",42749,Ananya Reddy
+BILL0037,Cardiology,Insurance,07-11-2024,"62,336",142350,Sneha Joshi
+BILL0157,General Medicine,Government Scheme,25-03-2024,"1,50,479",87938,Myra Menon
+BILL0003,,Government Scheme,09-01-2023,"58,060",39470,Rohan Sharma
+BILL0243,Orthopedics,Government Scheme,,"53,300",235625,Myra Patel
+BILL0309,General Medicine,Insurance,10-02-2023,"36,077",75675,Ishaan Chopra
+BILL0290,General Medicine,Out-of-Pocket,31-05-2023,"1,41,487",8888,Ayaan Verma
+BILL0049,Neurology,Insurance,,"1,84,377",188036,Vikram Singh
+BILL0415,Cardiology,Out-of-Pocket,02-09-2024,"1,18,435",10528,Kiara Rao
+BILL0142,,Out-of-Pocket,20-11-2024,"1,39,844",159978,Vivaan Das
+BILL0224,Orthopedics,Government Scheme,16-06-2023,"1,33,491",158471,Anika Joshi
+BILL0353,Pediatrics,Government Scheme,22-03-2023,"1,24,246",20504,Sai Rao
+BILL0184,Pediatrics,Insurance,12-04-2024,"47,298",91205,Ayaan Patel
+BILL0332,Orthopedics,Government Scheme,27-07-2024,"1,98,199",124444,Aarav Menon
+BILL0479,Orthopedics,Out-of-Pocket,16-07-2024,"1,14,422",87340,Riya Shah
+BILL0430,Cardiology,Out-of-Pocket,20-05-2023,"1,50,504",31346,Vivaan Malhotra
+BILL0161,Orthopedics,Out-of-Pocket,13-12-2024,"1,60,730",56271,Vikram Sharma
+BILL0337,General Medicine,Government Scheme,16-04-2024,"1,23,037",217857,Neha Das
+BILL0401,Cardiology,Insurance,14-01-2024,"2,19,682",215815,Priya Chopra
+BILL0220,Neurology,Out-of-Pocket,10-03-2023,"1,70,087",158651,Aadhya Menon
+BILL0100,Orthopedics,Out-of-Pocket,04-11-2024,"2,11,974",44308,Neha Gupta
+BILL0381,,Out-of-Pocket,03-09-2023,"39,926",115503,Isha Rao
+BILL0236,Orthopedics,Government Scheme,20-02-2024,"59,530",159186,Neha Singh
+BILL0452,Orthopedics,Out-of-Pocket,21-11-2023,"13,323",83008,Vivaan Pillai
+BILL0118,Orthopedics,Insurance,19-05-2023,"2,47,049",166471,Aditya Reddy
+BILL0342,General Medicine,Insurance,09-01-2024,"79,471",21292,Ayaan Patel
+BILL0002,Neurology,Government Scheme,03-07-2023,"72,380",116770,Reyansh Iyer
+BILL0114,Cardiology,Government Scheme,03-07-2024,"96,467",204323,Diya Verma
+BILL0464,Orthopedics,Insurance,28-11-2024,"11,456",150870,Vihaan Gupta
+BILL0175,Neurology,Government Scheme,10-02-2024,"55,198",195868,Saanvi Malhotra
+BILL0254,Cardiology,Government Scheme,03-03-2023,"56,738",231943,Diya Reddy
+BILL0446,Pediatrics,Insurance,20-07-2023,"1,15,542",7274,Arjun Kapoor
+BILL0048,General Medicine,Out-of-Pocket,10-01-2024,"1,28,021",153263,Riya Kapoor
+BILL0185,Neurology,Out-of-Pocket,15-04-2024,"71,410",232321,Vikram Shah
+BILL0166,Neurology,Out-of-Pocket,12-02-2023,"33,887",13965,Aditya Shah
+BILL0373,Pediatrics,Government Scheme,16-02-2024,"1,26,872",96172,Krishna Nair
+BILL0275,General Medicine,Government Scheme,06-11-2023,"1,19,443",48115,Vikram Mehta
+BILL0193,Neurology,Out-of-Pocket,16-05-2023,"1,87,237",189016,Isha Kapoor
+BILL0001,General Medicine,Insurance,18-11-2024,"2,18,462",178517,Vihaan Kapoor
+BILL0055,GENERAL MEDICINE,Out-of-Pocket,23-03-2024,"93,998",51097,Arjun Iyer
+BILL0376,Neurology,Government Scheme,02-10-2023,"1,31,878",114515,Vivaan Gupta
+BILL0029,Pediatrics,Out-of-Pocket,05-07-2023,"1,93,795",15909,Aditya Mehta
+BILL0207,Orthopedics,Out-of-Pocket,23-01-2024,"1,59,752",39986,Vihaan Gupta
+BILL0384,General Medicine,Insurance,31-07-2024,"2,06,738",39941,Myra Kumar
+BILL0494,Orthopedics,Out-of-Pocket,23-09-2023,"16,239",63226,Vihaan Joshi
+BILL0050,Pediatrics,Out-of-Pocket,07-04-2023,"1,21,827",164164,Diya Gupta
+BILL0351,Orthopedics,Insurance,04-09-2023,"1,59,492",6412,Reyansh Mehta
+BILL0021,CARDIOLOGY,Insurance,28-04-2023,"1,96,980",155758,Aditya Sharma
+BILL0294,Orthopedics,Out-of-Pocket,12-11-2024,"89,213",215398,Amit Kapoor
+BILL0177,Orthopedics,Out-of-Pocket,03-01-2023,"16,691",82104,Rahul Malhotra
+BILL0336,Neurology,Insurance,16-Oct-2023,"1,90,576",162818,Aditya Rao
+BILL0380,Neurology,Out-of-Pocket,05-01-2024,"1,43,779",223157,Sai Menon
+BILL0034,Pediatrics,Government Scheme,12-04-2023,"7,264",182643,Ishaan Singh
+BILL0172,Cardiology,Out-of-Pocket,18-02-2023,"1,37,166",83360,Riya Singh
+BILL0008,Cardiology,Insurance,12/29/2023,"1,14,962",163998,Myra Malhotra
+BILL0319,Pediatrics,Insurance,16-10-2024,"1,98,577",46947,Arjun Shah
+BILL0486,Cardiology,Government Scheme,03-08-2023,"2,19,549",74534,Arjun Kapoor
+BILL0107,Pediatrics,Government Scheme,2023.01.02,"1,35,107",49477,Kiara Pillai
+BILL0414,NEUROLOGY,Government Scheme,13-02-2024,"72,615",3664,Amit Pillai
+BILL0098,Orthopedics,Insurance,15-11-2023,"1,38,125",246225,Arjun Gupta
+BILL0111,General Medicine,Out-of-Pocket,07-08-2023,"1,408",201675,Saanvi Iyer
+BILL0361,Neurology,Insurance,,"1,85,640",13587,Vikram Menon
+BILL0070,General Medicine,Insurance,21-12-2024,"64,686",149776,Saanvi Patel
+BILL0347,neurology,Insurance,24-09-2023,"94,145",14817,Ishaan Iyer
+BILL0436,orthopedics,Government Scheme,05-07-2023,"1,56,934",149014,Rahul Kapoor
+BILL0130,Orthopedics,Government Scheme,,"53,781",102979,Aarav Patel
+BILL0317,Cardiology,Government Scheme,22-02-2024,"41,435",163696,Rohan Mehta
+BILL0448,Pediatrics,Insurance,11-06-2023,"92,947",15748,Ananya Bose
+BILL0259,Pediatrics,Government Scheme,04-11-2023,"35,107",2994,Ayaan Patel
+BILL0323,General Medicine,Insurance,28-03-2023,"2,22,517",42443,Vihaan Gupta
+BILL0151,Orthopedics,Insurance,2023.10.11,"58,650",27738,Ananya Chopra
+BILL0475,Orthopedics,Insurance,26-05-2023,"1,97,838",186131,Ishaan Verma
+BILL0338,Cardiology,Out-of-Pocket,11-07-2023,"54,306",15,Kiara Mehta
+BILL0027,Cardiology,Out-of-Pocket,17-07-2024,"23,882",72793,Anika Iyer
+BILL0399,Orthopedics,Government Scheme,18-12-2023,"2,10,164",59768,Myra Malhotra
+BILL0424,General Medicine,Out-of-Pocket,06-07-2023,"2,16,961",70979,Vikram Sharma
+BILL0094,Pediatrics,Government Scheme,26-06-2023,"2,42,874",217201,Sneha Joshi
+BILL0429,General Medicine,Government Scheme,10-10-2023,"28,516",204829,Kavya Das
+BILL0149,,Government Scheme,01-08-2023,"5,194",205338,Aditya Patel
+BILL0481,Pediatrics,Government Scheme,,"70,215",85211,Neha Das
+BILL0423,Neurology,Insurance,02-04-2024,"77,079",32899,Vikram Pillai
+BILL0120,General Medicine,Out-of-Pocket,09-06-2023,"2,43,893",244413,Krishna Joshi
+BILL0406,Neurology,Out-of-Pocket,09-08-2024,"1,64,861",111706,Isha Shah
+BILL0139,Cardiology,Out-of-Pocket,20-07-2023,"1,67,579",113843,Saanvi Patel
+BILL0170,Neurology,Out-of-Pocket,03-03-2024,"2,38,514",157998,Arjun Mehta
+BILL0364,Pediatrics,Out-of-Pocket,23-04-2024,"1,04,929",51921,Vikram Kumar
+BILL0203,Pediatrics,Out-of-Pocket,03-12-2024,"2,41,144",65592,Reyansh Sharma
+BILL0148,Cardiology,Out-of-Pocket,11-10-2024,"1,94,081",47020,Aadhya Rao
+BILL0278,General Medicine,Government Scheme,21-01-2024,"1,35,872",54607,Arjun Shah
+BILL0257,Pediatrics,Out-of-Pocket,21-10-2023,"1,01,172",171915,Aadhya Nair
+BILL0457,Neurology,Insurance,03-08-2024,"1,28,425",105623,Arjun Bose
+BILL0441,Orthopedics,Insurance,14-11-2024,"2,46,781",120623,Arjun Rao
+BILL0132,Neurology,Insurance,23-04-2023,"67,197",19748,Sai Joshi
+BILL0250,,Government Scheme,08-Jun-2024,,67438,Neha Das
+BILL0153,General Medicine,Out-of-Pocket,02-06-2023,"22,056",139535,Riya Patel
+BILL0363,Neurology,Out-of-Pocket,14-01-2024,"1,51,674",57732,Vivaan Menon
